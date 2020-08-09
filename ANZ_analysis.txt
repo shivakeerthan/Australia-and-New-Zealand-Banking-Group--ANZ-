@@ -1,0 +1,44 @@
+Most of transactions are done at lat & long - 153.41 -27.95 and second highest at - 151.23 -33.94
+--
+Most of transactions are linked to SALES-POS and POS (3934,3783)
+--
+Though most of transactions are for POS, the more money transacted is through PAY/SALARY (1600000)(1.6 Million AUD)
+---
+The average salary of every customer who have account in our bank. (1900 AUD)
+-------
+There are 3 instances where 100,000 AUD amount was transacted which were on 3rd ,17th and 24th.
+----
+Highest transaction was done in 10th month for 800,000 AUD
+----
+Men have high amount transaction rate than women and so have the highest average. average(205 per trans AUD). sum(1292961 AUD)
+---
+In all categories Male are showing the domination in transaction amount
+---
+Highest transaction in past 3 months - 'Diana'
+-----
+Highest extraction was carried out on 03-09-2018
+----
+The most amount was spent using credit card and male have spent the highest(on credit - 972920) (703656 otherwise)
+-----
+Age 15-20 Females are spending the most compared to males in the same age group. In all other age groups males have dominated the expenditure.
+-----
+
+Age (20-30) Females are most spent age group in Females.-(337,548) and is the same with males.-(501,837)
+---
+Average transaction amount is 188 AUD
+----
+There are 4014 transactions on average per month
+---
+More amount is transacted in mid 10 days of the month
+---
+on 16th and 31 less significant transactions took place (pay checks)
+---
+The most transactions occured in last 10 days(20-31) of the month
+---
+The transaction have been increasing from month 8 to 10. The highest recorded transactions are on month 10 (october)
+---
+NSW state has made highest transactions with VIC. The Least number transactions are with TAS. Though we donot have many datapoints.(lots of missing points)
+----
+** 19th -20th of every month the amount transacted is almost the same about 9000 AUD
+-----
+More transactions have been donw in Melbourne and Sydney
